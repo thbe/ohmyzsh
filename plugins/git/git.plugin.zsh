@@ -119,6 +119,7 @@ alias gcpc='git cherry-pick --continue'
 alias gcs='git commit -S'
 alias gcss='git commit -S -s'
 alias gcssm='git commit -S -s -m'
+alias gcsasm='git commit -S -a -s -m'
 
 alias gd='git diff'
 alias gdca='git diff --cached'
